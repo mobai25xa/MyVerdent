@@ -23,9 +23,3 @@ MyVerdent 是一款基于 **Tauri + SvelteKit + Rust** 的 Windows 桌面工具�
 - 使用前建议阅读应用内的重要提示（启动时弹窗或顶部注意按钮）。
 - 建议始终以管理员模式启动 MyVerdent（否则部分功能会失败）。
 
-## 推荐开发环境
-
-- VS Code
-  - Svelte 扩展
-  - Tauri 扩展
-  - rust-analyzer 扩展
